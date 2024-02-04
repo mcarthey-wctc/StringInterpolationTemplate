@@ -1,9 +1,9 @@
-﻿## StringInterpolationTemplate
+# StringInterpolationTemplate
 This template provides the basic structure including methods and tests to complete and submit the StringInterpolation assignment.  Follow the instructions below to complete the assignment.  
 
-# Assignment Instructions
+## Assignment Instructions
 
-# From today's date
+### From today's date
 1. January 22, 2019 (right aligned in a 40 character field)
 2. 2019.01.22
 3. Day 22 of January, 2019
@@ -13,7 +13,7 @@ This template provides the basic structure including methods and tests to comple
 7. h:11, m:01, s:27
 8. 2019.01.22.11.01.27
 
-If you have PI (3.1415) - use `var pi = Math.PI;`
+### If you have PI (3.1415) ***(use `var pi = Math.PI;`)***
 
  9. Output as currency
 10. Output as right-aligned (10 spaces), number with 3 decimal places
