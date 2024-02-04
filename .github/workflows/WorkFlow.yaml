@@ -13,10 +13,10 @@ name: .NET Core Application Test Workflow
 on:
   push:
     branches:
-      - default
+      - main
   pull_request:
     branches:
-      - default
+      - main
   schedule:
     - cron: '0 0 * * *' # Runs at 00:00 UTC every day
     # '*/15 * * * *' # example runs every 15 minutes
